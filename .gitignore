@@ -1,0 +1,12 @@
+# Ignore archive folder
+archive/
+.bundle/
+vendor/
+ruby/
+app/archive/
+
+# Ignore sublime text configs
+*.sublime-workspace
+
+# Ignore Gem .lock file
+*.lock
